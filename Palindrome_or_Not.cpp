@@ -23,7 +23,7 @@ int main()
 
    if(number == reverse)
    {
-    cout<<number<<"is a palindrome number."<<endl;
+    cout<<number<<" is a palindrome number."<<endl;
    }
    else
    {
